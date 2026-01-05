@@ -17,6 +17,10 @@ Explaining pollution sources using interpretable ML
 Automatically generating public health reports using an LLM
 Then Evaluates the LLM report if it is accurate , such as fairness , clarity , Actionability
 
+# What it does ?
+![What It Does](what%20it%20does.png)
+
+
 # 📊 Dataset Overview ( Collected from Central Pollution Control Board)
 Rows: 10,000
 Cities: Major Indian metropolitan cities
